@@ -20,7 +20,14 @@ a {
 
 .cover {
     max-width: 40vw;
+   
 }
+
+.my-class {
+    border-radius: 10%;
+}
+
+
 
 .s {
     color: greenyellow;
