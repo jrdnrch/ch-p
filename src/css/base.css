@@ -19,7 +19,8 @@ a {
 }
 
 .cover {
-    max-width: 40vw;
+    max-width: 20vw;
+    margin-left: 3em;
    
 }
 
